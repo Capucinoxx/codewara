@@ -24,7 +24,6 @@
   Each case must therefore be treated in a different way. We must therefore count the number
   of people who like to know in what sitaution we find ourselves in.
 
-Date: 2021-01-09 by Benjamin Courchesne
 link: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 =end
 

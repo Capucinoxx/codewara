@@ -1,7 +1,3 @@
-=begin
-
-=end
-
 def mix(s1, s2)
   s1hash = Hash.new {|v,k| v[k] = 0}
   s2hash = Hash.new {|v,k| v[k] = 0}
