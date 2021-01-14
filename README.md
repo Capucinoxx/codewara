@@ -3,8 +3,8 @@
 ## 3kyu
 | **challenges name**                 |  ruby                                               | golang                                               |
 | :---------------------------------- | :-------------------------------------------------: | :--------------------------------------------------: |
-| calculator                          | [✔️]("./ruby/3kyu/calculator.rb")                    | -                                                  |
-| last digit of a huge number         | [✔️]("./ruby/3kyu/last_digit_of_a_huge_number.rb")  | []()                                                 |
+| calculator                          | [✔️]("../ruby/3kyu/calculator.rb")                    | -                                                  |
+| last digit of a huge number         | [✔️]("../ruby/3kyu/last_digit_of_a_huge_number.rb")  | []()                                                 |
 | rail fence cipher encoding          | []()                                                | [✔️]("./golang/3kyu/rail_fence_cipher_encoding.go") |
 
 ## 4kyu
