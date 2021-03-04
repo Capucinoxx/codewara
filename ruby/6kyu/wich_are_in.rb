@@ -1,4 +1,5 @@
 =begin
+Date: 2021-01-08 by Benjamin Courchesne
 link: https://www.codewars.com/kata/550554fd08b86f84fe000a58
 =end
 

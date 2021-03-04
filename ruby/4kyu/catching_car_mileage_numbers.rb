@@ -1,3 +1,5 @@
+
+
 def interesting? n
   return false if n % 100 == n
   return true if n % 100 == 0
