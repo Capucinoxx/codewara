@@ -1,6 +1,12 @@
 #include <cmath>
 
-/* https://www.codewars.com/kata/5287e858c6b5a9678200083c */
+// +-------------------------------------------------------------------------+
+// | Does my number look big in this?                                        |
+// |                                                                         |
+// | Date:    27 février 2021                                                |
+// | Author:  Benjamin Courchesne (Capucinoxx)                               |
+// | Link:    https://www.codewars.com/kata/5287e858c6b5a9678200083c         |
+// +-------------------------------------------------------------------------+
 
 bool narcissistic( int value ){
   int n = 0;
