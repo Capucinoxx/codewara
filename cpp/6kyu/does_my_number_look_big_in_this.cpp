@@ -8,15 +8,11 @@
 // | Link:    https://www.codewars.com/kata/5287e858c6b5a9678200083c         |
 // +-------------------------------------------------------------------------+
 
-bool narcissistic( int value ){
-  int n = 0;
-  int m = value;
-  int digit = (int)ceil(log10((double)value));
-  
-  while(m > 0) {
-    n += (int)pow(m % 10, digit);
-    m /= 10;
-  }
+bool narcissistic(int value){
+  int n, m;
+  int digit = log10(value) + 1;
+
+  for (n = 0, m = value; m > 0;m /= 10) { n += (int)pow(m % 10, digit); }
   
   return n == value;
 }
